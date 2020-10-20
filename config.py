@@ -1,0 +1,6 @@
+AI_NAME = "peggy"
+VERSION = "0.0.1"
+
+ERRORS = ['MC-ERR01%']
+
+SHUTDOWN_PHRASE = f"{AI_NAME} SHUTDOWN".lower()
