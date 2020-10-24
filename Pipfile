@@ -10,6 +10,7 @@ pyttsx3 = "*"
 pysound = "*"
 speech-recognition = "*"
 playsound = "*"
+word2number="*"
 
 [requires]
 python_version = "3.9"
